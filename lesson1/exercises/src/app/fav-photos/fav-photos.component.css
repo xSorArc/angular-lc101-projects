@@ -8,6 +8,9 @@ img {
 
 .photos {
    text-align: center;
-   width: 50;
-   height:50;
+   width: 10;
+   height: 10;
+   border-right-style: dashed;
+   border-left-style: dashed;
+   border-color: blueviolet;
 }
