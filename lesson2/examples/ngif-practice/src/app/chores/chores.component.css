@@ -16,3 +16,12 @@ img {
     display: block;
     margin: auto;
 }
+
+#work {
+    color:chartreuse;
+}
+
+.ngC {
+    text-align: center;
+    color:darkolivegreen;
+}
