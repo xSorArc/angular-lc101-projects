@@ -23,3 +23,11 @@ button {
 .copper {
    background: #b87333 ;
 }
+
+.frust {
+   background: red;
+}
+
+.catch {
+   text-align: mouseRandom();
+}
